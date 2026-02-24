@@ -25,7 +25,7 @@ A real-time voice-based AI therapist application that provides emotional support
 
 - Python 3.x with async/await support
 - LiveKit account and credentials
-- OpenAI API key
+- Google API key
 
 ## Setup
 
@@ -52,7 +52,7 @@ pip install -r backend/requirements.txt
 LIVEKIT_URL=your_livekit_websocket_url
 LIVEKIT_API_KEY=your_api_key
 LIVEKIT_API_SECRET=your_api_secret
-OPENAI_API_KEY=your_openai_key
+GEMINI_API_KEY=your_google_key
 ```
 
 ```bash
