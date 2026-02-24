@@ -19,7 +19,7 @@ A real-time voice-based AI therapist application that provides emotional support
 - **Python 3.x** - Backend services
 - **Flask** - REST API server
 - **LiveKit** - Real-time communication platform
-- **OpenAI Realtime API** - Voice-based LLM interactions
+- **Google Realtime API** - Voice-based LLM interactions
 
 ## Prerequisites
 
